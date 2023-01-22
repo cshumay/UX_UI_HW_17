@@ -59,6 +59,11 @@ ul{
     transition: 0.5s
 }
 
+.responsive{
+  width: 100%;
+  height: auto;
+} 
+
 .item1 {
     grid-area: TL;
   }
