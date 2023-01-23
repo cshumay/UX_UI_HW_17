@@ -95,6 +95,9 @@ ul{
     padding: 20px 20px;
   }
   
+  .item1 img{
+    max-width: 80%;
+  }
   .item2 h1{
     font-family: "Lora";
     color: white;
@@ -103,6 +106,10 @@ ul{
   .item2 p{
       font-family: "Gnuolane";
       color: white;
+  }
+
+  .item4 img{
+    max-width: 60%;
   }
   
   input[type=text], select, textarea {
