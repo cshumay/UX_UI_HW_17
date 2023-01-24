@@ -75,19 +75,19 @@ ul{
 
 .item1 {
     grid-area: TL;
-  }
+}
   
 .item2 {
     grid-area: TR;
-  }
+}
   
 .item3 {
     grid-area: BL;
-  }
+}
   
 .item4 {
     grid-area:BR
-  }
+}
   
   .grid-container {
     display: grid;
@@ -97,29 +97,30 @@ ul{
     gap: 5px;
     background-color: #494c70;
     padding: 10px;
-  }
+}
   
   .grid-container > div{
     text-align: center;
     padding: 20px 20px;
-  }
+}
   
   .item1 img{
     max-width: 80%;
-  }
+}
+
   .item2 h1{
     font-family: "Lora";
     color: white;
-  }
+}
   
   .item2 p{
       font-family: "Gnuolane";
       color: white;
-  }
+}
 
   .item4 img{
     max-width: 60%;
-  }
+}
   
   input[type=text], select, textarea {
       width: 100%;
@@ -130,7 +131,7 @@ ul{
       margin-top: 6px;
       margin-bottom: 16px;
       resize: vertical;
-  }
+}
   
   input[type=submit] {
     background-color: #286a8c;
@@ -140,11 +141,11 @@ ul{
     border-radius: 4px;
     cursor: pointer;
     display: absolute;
-  }
+}
   
   input[type=submit]:hover {
     background-color: #45a049;
-  }
+}
 
   .container {
     border-radius: 5px;
@@ -154,7 +155,7 @@ ul{
     height: 80%;
     margin-left: 10%;
     margin-top: 7%;
-  }
+}
 
 .footer {
     position: absolute;
